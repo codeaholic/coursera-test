@@ -1,0 +1,40 @@
+.menu-box {
+    border: 1px solid black;
+    background-color: #B0B0B0;
+    color: black;
+    margin: 0px 10px 20px 10px;
+}
+
+.item-title {
+    float: right;
+    border: 1px solid black;
+    margin: 0px 0px 10px 0px;
+    top: 0px;
+    right: 0px;
+    width: 100px;
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.item-description {
+    clear: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: italic;
+}
+
+#item1-title {
+    background-color: #FFBF80;
+    color: black;
+}
+
+#item2-title {
+    background-color: #BF80FF;
+    color: black;
+}
+
+#item3-title {
+    background-color: #80FFFF;
+    color: black;
+}
